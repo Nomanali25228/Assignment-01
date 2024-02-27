@@ -1,0 +1,198 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+
+}
+
+.boder {
+  width: 100%;
+}
+
+.profile {
+  text-align: center;
+  margin-top: 30px;
+  font-family: serif, Georgia;
+}
+
+.displayflex {
+  display: flex;
+}
+
+.para1 {
+  margin-top: 20px;
+  font-size: 15px;
+  font-family: serif, Georgia;
+}
+
+.para2 {
+
+  font-size: 15px;
+  font-family: serif, Georgia;
+}
+
+.face {
+  margin-top: 15px;
+  margin-left: 180px;
+  height: 30px;
+}
+
+.instagram {
+  margin-top: 15px;
+  margin-left: 10px;
+  height: 30px;
+}
+
+.tweetr {
+  margin-top: 15px;
+  margin-left: 10px;
+  height: 30px;
+}
+
+.link {
+  margin-left: 290px;
+  margin-top: 7px;
+
+}
+
+.wheels {
+  margin-top: 20px;
+  height: 280px;
+  width: 300px;
+}
+
+.cabel {
+  margin-top: 35px;
+  margin-left: 10px;
+  font-family: serif, Georgia;
+}
+
+.paragrph {
+  font-size: 15px;
+  font-family: serif, Georgia;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+.paragrph1 {
+  font-size: 15px;
+  font-family: serif, Georgia;
+  margin-top: 0px;
+  margin-left: 10px;
+
+}
+
+.colorwheels {
+  height: 170px;
+  width: 270px;
+  margin-left: 55px;
+  margin-top: 20px;
+}
+
+.ptage1 {
+  margin-top: 20px;
+  font-family: serif, Georgia;
+  font-size: 15px;
+  margin-left: 55px;
+}
+
+.ptage2 {
+
+  font-size: 15px;
+  margin-left: 55px;
+  font-family: serif, Georgia;
+}
+
+.ul1 {
+  margin-top: 50px;
+  margin-left: 50px;
+  font-family: serif, Georgia;
+}
+
+.ul2 {
+  margin-top: 50px;
+  margin-left: 380px;
+  font-family: serif, Georgia;
+
+}
+
+.ul3 {
+  margin-top: 50px;
+  margin-left: 380px;
+  font-family: serif, Georgia;
+  list-style-type: number
+}
+
+.joinus {
+  margin-top: 50px;
+  text-align: center;
+  margin-bottom: 20px;
+  font-family: serif, Georgia;
+}
+
+.iputs {
+  margin-left: 490px;
+  width: 355px;
+  outline: none;
+
+}
+
+.iputs[type=text] {
+  padding-left: 8px;
+}
+
+.iputs1 {
+  margin-left: 490px;
+  width: 150px;
+  outline: none;
+
+}
+
+.iputs1[type=text] {
+  padding-left: 8px;
+}
+
+.iputs2 {
+  margin-left: 490px;
+
+  width: 150px;
+  outline: none;
+
+}
+
+.iputs2[type=text] {
+  padding-left: 8px;
+}
+
+.radio1 {
+  margin-left: 495px;
+  outline: none;
+}
+
+.year {
+  margin-left: 5px;
+  outline: none;
+}
+
+.radio2 {
+  margin-left: 10px;
+  outline: none;
+
+}
+
+.comment {
+  margin-left: 490px;
+  outline: none;
+  height: 76px;
+  width: 210px;
+}
+
+.selected {
+  margin-left: 490px;
+  outline: none;
+}
+
+.ipet {
+
+  padding-right: 70px;
+}
